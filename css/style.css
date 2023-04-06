@@ -10856,7 +10856,6 @@ a[data-toggle="collapse"] {
 @media (max-width: 991.98px) {
   #sidebarCollapse span {
     display: none;
-    color: gray;
   }
 }
 
@@ -10916,4 +10915,16 @@ a[data-toggle="collapse"] {
 
 .subscribe-form .form-control {
   background: #343a40;
+}
+
+.rounded-lg {
+  border-radius: 1rem;
+}
+
+.nav-pills .nav-link {
+  color: #555;
+}
+
+.nav-pills .nav-link.active {
+  color: #fff;
 }
